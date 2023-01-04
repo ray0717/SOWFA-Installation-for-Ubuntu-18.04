@@ -32,6 +32,7 @@ $ export WM_CXX='g++-5'
 ### Save alias, run of240 when starting new terminal
 ```shell
 $ echo "alias of240='source \$HOME/OpenFOAM/OpenFOAM-2.4.0/etc/bashrc $FOAM_SETTINGS; export WM_CC=gcc-5; export WM_CXX=g++-5'" >> $HOME/.bashrc
+$ ~/.bashrc
 ```
 ### Build ThirdParty folder
 ```shell
