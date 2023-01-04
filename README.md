@@ -88,6 +88,6 @@ export PATH="${PATH}:${SOWFA_DIR}/applications/bin/${WM_OPTIONS}"
 $ source ~/.bashrc
 ```
 ## Reference
-https://github.com/pablo-benito/SOWFA-installation
-https://openfoamwiki.net/index.php/Installation/Linux/OpenFOAM-2.4.0/Ubuntu#Ubuntu_18.04
+https://github.com/pablo-benito/SOWFA-installation <br>
+https://openfoamwiki.net/index.php/Installation/Linux/OpenFOAM-2.4.0/Ubuntu#Ubuntu_18.04 <br>
 https://github.com/NREL/SOWFA/blob/master/README.SOWFA
