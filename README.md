@@ -79,8 +79,10 @@ $ cd ${SOWFA_DIR}
 $ ./Allwmake > log.make 2>&1
 ```
 ### Set variables
-#### Add below 2 lines to ~/.bashrc
+#### Add below 4 lines to ~/.bashrc
 ```
+of240
+export SOWFA_DIR="${HOME}/SOWFA"
 export LD_LIBRARY_PATH=${SOWFA_DIR}/lib/${WM_OPTIONS}/:${LD_LIBRARY_PATH}
 export PATH="${PATH}:${SOWFA_DIR}/applications/bin/${WM_OPTIONS}"
 ```
